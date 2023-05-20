@@ -1,2 +1,2 @@
-# Revision-of-R
-Revision-of-R
+# Revision-of-Ruby
+Revision-of-Ruby
